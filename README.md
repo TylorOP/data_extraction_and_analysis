@@ -21,6 +21,18 @@ Additionally i came to know about the selenium LIbrary Which is very powerful an
 difficulty: Here the difficulty was that the justdial doesn't allow to access the page, so we have to install a driver and over it access the page and start scrapping,and the funny part was that they block my ip for couple of days still we manage on multiple devices and done the work.
 
 
+#Flipkart review data
+
+Here one more curiosity and just look at the data in the folder respectively how beautifully does it show the reviews and rationg of customer.
+
+if i think so far then doing this type of collection of data may leads in a positive purpose. for example analysing customer revoew and ration can help the company to increase in sales and profit or applies discount or distributing coupons.Furture yoy can do sentiment analysis.Risk analysis and many more.
+
+
+
+
+
+
+
 
 
 
