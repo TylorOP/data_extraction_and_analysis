@@ -6,7 +6,7 @@ for more detail read readme file from inside the folder
 #School_data_mumbai
 
 The objective of this was to extract the School data location of mumbai (Curiosity)
-Read readme file
+This is the practice one 
 
 #Just_dial_extraction
 Here is the main application i found and used it for a real time business purpose
@@ -17,6 +17,8 @@ A short summary:
 There we got a task that to extract the Shop name, owner name, email address, and phone number.I am proud of that this is my code and we got the data and ordere the product (re.xlse and er.xlse) and later i left with rest of all,But the main part was to collect the data and without the data the selling of the product doesn't even start.
 
 Additionally i came to know about the selenium LIbrary Which is very powerful and effective.
+
+difficulty: Here the difficulty was that the justdial doesn't allow to access the page, so we have to install a driver and over it access the page and start scrapping,and the funny part was that they block my ip for couple of days still we manage on multiple devices and done the work.
 
 
 
